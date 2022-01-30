@@ -47,3 +47,5 @@ If you want to use the project using npm then that comes alongside when you down
 
      3) Basics of Web Scraping
 
+     4) Libraries Used : Cheerio,Request,PdfKit
+
