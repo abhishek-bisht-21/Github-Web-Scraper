@@ -48,4 +48,13 @@ If you want to use the project using npm then that comes alongside when you down
      3) Basics of Web Scraping
 
      4) Libraries Used : Cheerio,Request,PdfKit
+     
+## Screenshots
 
+   
+     1) Github Topics Page
+
+
+   ![Github Topics Page](https://user-images.githubusercontent.com/67583012/151707462-65f95f7e-fc28-4335-801f-75662a09eb02.png)
+   
+     
