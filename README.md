@@ -1,6 +1,6 @@
  # Github Scraper 🔥
 
-This Project Helps a beginner
+This Project Helps the beginners
 to start their journey in world of Open Source.
 It visits special page on Github https://github.com/topics. 
 On this page we get to see 3 random topics. Each Topic will
