@@ -5,8 +5,10 @@ to start their journey in world of Open Source.
 It visits special page on Github https://github.com/topics. 
 On this page we get to see 3 random topics. Each Topic will
 have it's famous repositories. It will visit each of those 
-repositories one by one and list down all the Issues listed
-for that particular repository in a PDF file.
+repositories one by one and list down all the Issues 
+for that particular repository in a PDF file. Seperate Directories
+for each Topic will be created and those Directories will have 8 famous
+Repos in seperate files and their Respective Issues Documented in a PDF File. 
 
 ## Installation
 
